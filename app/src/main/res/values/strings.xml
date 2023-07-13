@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Tenkinoko</string>
+    <string name="app_name">Tenki No Ko</string>
+    <string name="str_main_toolbar_settings">Settings</string>
+    <string name="str_main_toolbar_about">About</string>
+    <string name="str_main_text_na">N/A</string>
+    <string name="str_main_text_temperature">Temperature</string>
+    <string name="str_main_text_humidity">Humidity</string>
+    <string name="str_main_text_rain_title">Rain Status</string>
 </resources>

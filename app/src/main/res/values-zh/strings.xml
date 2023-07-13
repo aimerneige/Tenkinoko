@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tenki No Ko</string>
+    <string name="str_main_toolbar_settings">设置</string>
+    <string name="str_main_toolbar_about">关于</string>
+    <string name="str_main_text_temperature">温度</string>
+    <string name="str_main_text_na">N/A</string>
+    <string name="str_main_text_humidity">湿度</string>
+    <string name="str_main_text_rain_title">是否有雨</string>
+</resources>
