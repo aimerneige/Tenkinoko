@@ -1,14 +1,9 @@
 package com.example.tenkinoko;
 
-import java.util.List;
-
 public class THJsonData {
-
-    public List<Data> data;
-
-    public class Data {
-        public double H;
-        public double T;
-        public String time;
-    }
+    public String time;
+    public String device;
+    public int temp;
+    public int humidity;
+    public int rain;
 }

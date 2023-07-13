@@ -1,9 +1,14 @@
 <resources>
-    <string name="app_name">Tenki No Ko</string>
     <string name="str_main_toolbar_settings">Settings</string>
     <string name="str_main_toolbar_about">About</string>
     <string name="str_main_text_na">N/A</string>
     <string name="str_main_text_temperature">Temperature</string>
     <string name="str_main_text_humidity">Humidity</string>
     <string name="str_main_text_rain_title">Rain Status</string>
+    <string name="str_main_text_sensor_title">Switch Sensor</string>
+    <string name="str_main_text_sensor_detail">Click to switch sensor</string>
+    <string name="str_dialog_cancel">Cancel</string>
+    <string name="str_dialog_confirm">Confirm</string>
+    <string name="str_main_line_chart">Line Chart</string>
+    <string name="app_name">Tenki No Ko</string>
 </resources>

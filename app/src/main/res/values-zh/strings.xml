@@ -7,4 +7,9 @@
     <string name="str_main_text_na">N/A</string>
     <string name="str_main_text_humidity">湿度</string>
     <string name="str_main_text_rain_title">是否有雨</string>
+    <string name="str_main_text_sensor_title">切换传感器</string>
+    <string name="str_main_text_sensor_detail">点击切换传感器</string>
+    <string name="str_dialog_cancel">取消</string>
+    <string name="str_dialog_confirm">确定</string>
+    <string name="str_main_line_chart">温度折线图</string>
 </resources>

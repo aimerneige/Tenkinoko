@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sensor_name">
+        <item>传感器 1</item>
+        <item>传感器 2</item>
+    </string-array>
+
+</resources>
