@@ -120,6 +120,7 @@
                         android:textSize="16sp" />
 
                     <TextView
+                        android:id="@+id/text_rain_status"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingTop="2dp"
