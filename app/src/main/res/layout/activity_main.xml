@@ -97,10 +97,8 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:orientation="horizontal"
-                    android:paddingLeft="0dp"
-                    android:paddingTop="18dp"
-                    android:paddingRight="0dp"
-                    android:paddingBottom="18dp">
+                    android:paddingHorizontal="0dp"
+                    android:paddingVertical="18dp">
 
                     <ImageView
                         android:layout_width="24dp"
@@ -150,10 +148,8 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:orientation="horizontal"
-                    android:paddingLeft="0dp"
-                    android:paddingTop="18dp"
-                    android:paddingRight="0dp"
-                    android:paddingBottom="18dp">
+                    android:paddingHorizontal="0dp"
+                    android:paddingVertical="18dp">
 
                     <ImageView
                         android:layout_width="24dp"
@@ -192,6 +188,34 @@
                     </LinearLayout>
 
                 </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/bg_trans_border_ripple"
+                android:orientation="vertical"
+                android:clickable="false"
+                android:focusable="false"
+                android:paddingHorizontal="0dp"
+                android:paddingVertical="4dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Line Chart"
+                    android:textColor="@color/firstTextColor"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginStart="12dp"
+                    android:textSize="16sp" />
+
+                <com.github.mikephil.charting.charts.LineChart
+                    android:id="@+id/chart"
+                    android:layout_marginHorizontal="4dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="320dp" />
 
             </LinearLayout>
 
